@@ -1,4 +1,4 @@
-Autonomouse driving - Road Sign Recognition
+Autonomous driving - Road Sign Recognition
 Computer Vision final project A.Y. 2017-2018
 
 Use of computer vision techniques and machine learning (multiple classes SVM) as explained in the document CV_FinalProject_ValenteAlex_1173742.pdf
